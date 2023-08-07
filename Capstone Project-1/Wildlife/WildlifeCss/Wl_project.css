@@ -130,6 +130,7 @@ input{
 	background-image:url('../images/FA.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
+
 }
 .h8{
 	color: white;
@@ -189,12 +190,12 @@ input{
 	background-image: url('../images/WL-15.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-/*	position: static;*/
+
 }
 .d9{
 	width: 980px;
 	height: 150px;
-/*	background-color: blue;*/
+
 }
 .hh5{
 	color: white;
