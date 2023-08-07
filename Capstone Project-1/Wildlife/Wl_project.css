@@ -4,7 +4,7 @@
 }
 
 .d1{
-	height:3480px;
+	height:3500px;
 	width:980px;
 	background-color:black;
 /*	#272829;*/
@@ -17,6 +17,7 @@
 	height:500px;
 	width: 980px;
 	background-image:url("images/WL-2.jpg");
+/*	opacity: 0.5;*/
 }	
 .d3{
 	height:100px;
@@ -26,8 +27,13 @@
 	color: white;
 	margin-right:800px;
 	margin-top:0%;
-	padding-top: 1%;
+	padding-top: 0%;
+	padding-left: 6%;
 	font-family: initial;
+}
+i{
+	color: white;
+	padding-left: 90%;
 }
 .h1{
 	color: white;
@@ -41,13 +47,13 @@
 /*	font-style:oblique;*/
 	font-family:cursive;
 }
-input{
+/*input{
 	height: 35px;
 	width:100px;
 	border-radius:20px;
 	font-family:cursive;
 	background-color: white;
-}
+}*/
 
 .h3{
 	color: white;
@@ -209,6 +215,8 @@ input{
 	float:left;
 	margin-right: 2%;
 	background-image: url('images/WL-16.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .hh8{
 	height: 200px;
@@ -217,6 +225,8 @@ input{
 	float:left;
 	margin-right:2%;
 	background-image: url('images/WL-18.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 	position:revert-layer;
 
 }
@@ -227,6 +237,8 @@ input{
 	float:left;
 	margin-right: 2%;
 	background-image: url('images/WL-20.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .hh10{
 	height: 200px;
@@ -234,6 +246,8 @@ input{
 	background-color:black;
 	float:left;
 	background-image: url('images/WL-21.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .d11{
 	height: 80px;
