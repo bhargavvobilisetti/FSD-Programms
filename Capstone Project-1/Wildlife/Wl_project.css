@@ -1,7 +1,6 @@
 *{
 	margin:0px ;
 	box-sizing: border-box;
-	
 }
 
 .d1{
@@ -10,6 +9,7 @@
 	background-color:black;
 /*	#272829;*/
 	text-align:center;
+border-top: 5px;
 	margin-left:150px;
 
 }
@@ -26,27 +26,28 @@
 .h{
 	color: white;
 	margin-right:800px;
-	margin-top:2%;
-	padding-left: 6%;
+	margin-left: 3%;
+	padding-top: 2%;
 	font-family: initial;
-	position: fixed;
 }
-i{
+/*i{
 	color: white;
-	padding-left: 90%;
-	padding-top: 3%;
-}
+	padding-left: 88%;
+	
+}*/
 .h1{
 	color: white;
-	margin-top: 11%;
+	margin-top: 9%;
 	font-size: 50px;
 	font-family:cursive;
+	position: static;
 }
 .h2{
 	color:white;
 	margin-top:20px	;
 /*	font-style:oblique;*/
 	font-family:cursive;
+	position: static;
 }
 input{
 	height: 35px;
